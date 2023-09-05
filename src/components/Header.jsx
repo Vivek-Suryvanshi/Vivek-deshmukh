@@ -11,7 +11,6 @@ function Header() {
       <a href="index.html" className="logo d-flex align-items-center">
         {/* <!-- Uncomment the line below if you also wish to use an image logo --> */}
          <img src="assets/img/logo.png" alt="" style={{width:'200px', height: "300px",}}/>
-        {/* <h1>UpConstruction<span>.</span></h1> */}
       </a>
 
       <i className="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
